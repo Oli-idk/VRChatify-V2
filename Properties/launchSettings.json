@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Database Logger": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Coding\\C#\\Database Logger"
+    }
+  }
+}
